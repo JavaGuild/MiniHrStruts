@@ -1,12 +1,16 @@
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-    pageEncoding="ISO-8859-1"%>
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html>
+
+<%@ taglib uri="/WEB-INF/tlds/struts-html.tld"  prefix=html %>
+
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Java Guild, Developers Portal</title>
 </head>
 <body>
 
+<font size ="+1">Java Guild Developer Portal</font><br>
+<hr width ="100%" nonshade="true">
+
+&#419; Add Developer<br>
+&#419;<html:link forward="search">Search developer</html:link><br>
 </body>
 </html>
